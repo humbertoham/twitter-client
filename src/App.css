@@ -1,0 +1,22 @@
+.page-tittle {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+.form-container {
+  width: 400px;
+  margin: auto !important;
+}
+.ui.teal.button:focus,
+ui.teal.buttons .button:focus {
+  background: color #00b5ad !important;
+}
+.ui.modal {
+  position: unset !important;
+  width: 300px !important;
+  margin: auto !important;
+}
+.auto {
+  margin: auto;
+}
